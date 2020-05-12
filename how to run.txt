@@ -3,5 +3,7 @@ create a database and name it to 'regform'.
 Now extract the files and place it in c:/xampp/htdocs
 Now import the database in phpmyadmin given in file.
 
+After that go to your browser and type "localhost/regform"
+
 email: bilalzafar.cs@gmail.com
 password: 1234
